@@ -3,19 +3,19 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Daniel P. Wong
-title: Software Engineer Intern at Microsoft Azure
-email: me@dpwong.com
+name: Cricia Silverberg
+title: Avid Learner
+email: cricia.s@gmail.com
 #website: www.github.com/danwong
 
 # Social links
 #twitter_username: facespics
-github_username:  danwong
+github_username:  cricias
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: brehski
-linkedin_username: dapwong
+instagram_username: cricia_silverberg
+linkedin_username: cricia
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
