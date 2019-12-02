@@ -22,11 +22,10 @@ linkedin_username: cricia
 
 # About Section
 # about_title: About Me
-##############
 about_profile_image: images/profilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name's Cricia and I am a new graduate from San Jose State University. I am experienced in education and child psychology. :)
-
+t
   [Here's my resume! :)](files/CriciaResume.pdf)
 
 # Projects Section
@@ -41,13 +40,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in software engineering some of my other interests and hobbies are:
-   - Weight lifting
-   - Coffee
-   - FOOD 
+  Some of my interests and hobbies are:
+   - Technology 💻
+   - Weightlifting 🏋
+   - Food 🍱
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
