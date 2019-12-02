@@ -3,6 +3,33 @@
   link: 
   github: sproogen/resume-theme
   quote: >
-    This [paper](files/Benefits_of_Fantasy_Play.pdf) explores the benefits of having an imaginary companion throughout child development. 
+    This paper explores the benefits of having an imaginary companion throughout child development. 
   description: | # this will include new lines to allow paragraphs
     This [paper](files/Benefits_of_Fantasy_Play.pdf) examines the role of fantasy play on socioemotional development in children, and the long-term effects they hold.
+
+- layout: top-middle
+  name: Parental Depression
+  link: 
+  github: sproogen/resume-theme
+  quote: >
+    This paper discusses the seriousness and importance depression has on raising children.  
+  description: | # this will include new lines to allow paragraphs
+    This [paper](files/Parental_Depression.pdf) goes over the effects of depression in the different domains of development and the long-term effects. 
+
+- layout: top-middle
+  name: Children's Understanding of Non-literal Language
+  link: 
+  github: sproogen/resume-theme
+  quote: >
+    This paper evaluates the comprehension abilities of non-literal language use of two school aged children.  
+  description: | # this will include new lines to allow paragraphs
+    This [paper](files/Childrens_Understanding_of_Non-Literal_Language.pdf) centers on how theory of mind, conversational and scalar implications, and Gricean Maxims affect a child's ability to understand non-literal language. 
+
+- layout: top-middle
+  name: Parental Incarceration
+  link: 
+  github: sproogen/resume-theme
+  quote: >
+    This paper discusses parental incarceration and the affects it has on the whole family system,  
+  description: | # this will include new lines to allow paragraphs
+    This [paper](files/Parental_Incarceration.pdf) indicates that parents who are incarcerated are at risk for more than lising precious years of their lives, but will also face depression, negative long-term effects with childre and other family members, and loss of family system. 
