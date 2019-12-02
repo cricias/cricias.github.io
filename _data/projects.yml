@@ -1,7 +1,6 @@
 - layout: top-middle
   name: Benefits of Fantasy Play
   link: 
-  github: sproogen/resume-theme
   quote: >
     This paper explores the benefits of having an imaginary companion throughout child development. 
   description: | # this will include new lines to allow paragraphs
@@ -10,7 +9,6 @@
 - layout: top-middle
   name: Parental Depression
   link: 
-  github: sproogen/resume-theme
   quote: >
     This paper discusses the seriousness and importance depression has on raising children.  
   description: | # this will include new lines to allow paragraphs
@@ -19,7 +17,6 @@
 - layout: top-middle
   name: Children's Understanding of Non-literal Language
   link: 
-  github: sproogen/resume-theme
   quote: >
     This paper evaluates the comprehension abilities of non-literal language use of two school aged children.  
   description: | # this will include new lines to allow paragraphs
@@ -28,7 +25,6 @@
 - layout: top-middle
   name: Parental Incarceration
   link: 
-  github: sproogen/resume-theme
   quote: >
     This paper discusses parental incarceration and the affects it has on the whole family system,  
   description: | # this will include new lines to allow paragraphs
