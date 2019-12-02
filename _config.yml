@@ -1,0 +1,60 @@
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Daniel P. Wong
+title: Software Engineer Intern at Microsoft Azure
+email: me@dpwong.com
+#website: www.github.com/danwong
+
+# Social links
+#twitter_username: facespics
+github_username:  danwong
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: brehski
+linkedin_username: dapwong
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/headshot.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Daniel and I'm a software engineer intern at <mark>Microsoft</mark>! 
+  I am specifically experienced in <mark>mobile</mark> development and <mark>cloud infrastructure</mark> :)
+
+  [Here's my resume! :)](files/DanielWongResume.pdf)
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Weight lifting
+   - Coffee
+   - FOOD 
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
