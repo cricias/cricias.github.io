@@ -41,9 +41,9 @@ t
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Some of my interests and hobbies are:
-   - Technology 💻
-   - Weightlifting 🏋
-   - Food 🍱
+   - Technology 
+   - Weightlifting 
+   - Food 
 
 # Footer
 footer_show_references: false
