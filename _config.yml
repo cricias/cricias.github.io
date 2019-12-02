@@ -25,10 +25,9 @@ linkedin_username: cricia
 ##############
 about_profile_image: images/profilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Daniel and I'm a software engineer intern at <mark>Microsoft</mark>! 
-  I am specifically experienced in <mark>mobile</mark> development and <mark>cloud infrastructure</mark> :)
+ Hi, my name's Cricia and I am a new graduate from San Jose State University. I am experienced in education and child psychology. :)
 
-  [Here's my resume! :)](files/DanielWongResume.pdf)
+  [Here's my resume! :)](files/CriciaResume.pdf)
 
 # Projects Section
 # projects_title: Projects
