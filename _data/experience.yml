@@ -19,6 +19,7 @@
   description: | # this will include new lines to allow paragraphs
     I supported student learning objectives through personalized and small group instruction. In addition, I created a flexible learning environment that allowed students to think freely without the confines of a traditional desk. 
 
+
 - layout: left
   company: La Petite Academy
   link: www.lapetite.comp
@@ -29,7 +30,8 @@
   description: | # this will include new lines to allow paragraphs
     I created and implemented creative daily lesson plans to meet the needs of all students with diverse learning styles. 
 
-  - layout: left
+
+ - layout: left
   company: Citizen Schools 
   link: citizenschools.org
   job_title: Teacher Associate
@@ -38,5 +40,5 @@
     Girl Empowerment!
   description: | # this will include new lines to allow paragraphs
     I created an American Sign Language program that taught fundamental signs. I also organized a Girls Empowerment course teaching independence; corresponded with and invited to Google X to discuss women in technology. 
-    
+
 
