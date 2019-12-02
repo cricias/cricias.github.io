@@ -1,7 +1,7 @@
 - layout: left
   name: San Jose State University
   dates: 2015-2019
-  qualification: BA Child and Adolescent Development GPA":" 3.4
+  qualification: BA Child and Adolescent Development <mark>3.4</mark>
   quote: >
     The Lurie College of Education at San Jose State University is a professional community of students who are commpassionate professionals who interact in ethical ways and are mindful of our roles and responsibilities in a democratic society.
   description: | # this will include new lines to allow paragraphs
