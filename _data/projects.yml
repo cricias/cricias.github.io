@@ -1,10 +1,8 @@
-- layout: top-middle
-  name: Super awesome project
-  link: https://github.com/WeHacks/GlobalAI
+- layout: top-left 
+  name: Benefits of Fantasy Play
+  link: 
   github: sproogen/resume-theme
   quote: >
-    We won FIRST PLACE! 
+    This paper explores the benefits of having an imaginary companion throughout child development. 
   description: | # this will include new lines to allow paragraphs
-    I started this project in conjunction with Clover to develop a customer tender option to <mark>face</mark> fraud. (haha get it?) 
-
-    I integrated facial recognition APIs and extrapolated hashes of credit card data to customer accounts.
+    This paper examines the role of fantasy play on socioemotional development in children, and the long-term effects they hold.
