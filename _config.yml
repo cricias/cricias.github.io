@@ -25,7 +25,7 @@ linkedin_username: cricia
 about_profile_image: images/profilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
  Hi, my name's Cricia and I am a new graduate from San Jose State University. I am experienced in education and child psychology. :)
-t
+
   [Here's my resume! :)](files/CriciaResume.pdf)
 
 # Projects Section
@@ -46,7 +46,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Food 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
